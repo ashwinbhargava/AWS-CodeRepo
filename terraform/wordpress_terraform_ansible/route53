@@ -1,0 +1,12 @@
+cation": "https://route53.amazonaws.com/2013-04-01/delegationset/N0226782QK0P0VX6X3LT", 
+    "DelegationSet": {
+        "NameServers": [
+            "ns-1246.awsdns-27.org", 
+            "ns-621.awsdns-13.net", 
+            "ns-1795.awsdns-32.co.uk", 
+            "ns-481.awsdns-60.com"
+        ], 
+        "CallerReference": "1024", 
+        "Id": "/delegationset/N0226782QK0P0VX6X3LT"
+    }
+}
